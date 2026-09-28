@@ -63,5 +63,5 @@ Proje, 3. Normal Form (3NF) kurallarına uygun olarak PostgreSQL üzerinde iliş
 ## 👨‍💻 Geliştiriciler (Contributors)
 Bu proje, aşağıdaki geliştiriciler tarafından omuz omuza analiz edilmiş, tasarlanmış ve kodlanmıştır:
 
-* **Harun Melih Karakaş** - [LinkedIn](www.linkedin.com/in/harun-melih-karakaş-ab1747332) | [GitHub](https://github.com/hmkaraks)
-* **Furkan Emirvelioğlu** - [LinkedIn](linkedin.com/in/furkan-emirvelioğlu-b4a8a136a) | [GitHub](https://github.com/lfurkan06)
+* **Harun Melih Karakaş** - [LinkedIn](https://www.linkedin.com/in/harun-melih-karaka%C5%9F-ab1747332/) | [GitHub](https://github.com/hmkaraks)
+* **Furkan Emirvelioğlu** - [LinkedIn](https://www.linkedin.com/in/furkan-emirvelio%C4%9Flu-b4a8a136a/) | [GitHub](https://github.com/lfurkan06)
