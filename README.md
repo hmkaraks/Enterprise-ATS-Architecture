@@ -60,8 +60,8 @@ Proje, 3. Normal Form (3NF) kurallarına uygun olarak PostgreSQL üzerinde iliş
 
 ---
 
-## 👨‍💻 Geliştirici Ekip
-Bu proje, Karadeniz Teknik Üniversitesi (KTÜ) Bilgisayar Bilimleri bölümü öğrencileri tarafından tasarlanmış ve kodlanmıştır:
+## 👨‍💻 Geliştiriciler (Contributors)
+Bu proje, aşağıdaki geliştiriciler tarafından omuz omuza analiz edilmiş, tasarlanmış ve kodlanmıştır:
 
-* **Harun Melih Karakaş** - *Backend Architecture & Database Design* - [LinkedIn](https://linkedin.com/in/senin-linkin)
-* **Furkan [Soyadı]** - *Frontend Development & UI/UX Integration* - [LinkedIn](https://linkedin.com/in/furkan-linki)
+* **Harun Melih Karakaş** - [LinkedIn](www.linkedin.com/in/harun-melih-karakaş-ab1747332) | [GitHub](https://github.com/hmkaraks)
+* **Furkan Emirvelioğlu** - [LinkedIn](linkedin.com/in/furkan-emirvelioğlu-b4a8a136a) | [GitHub](https://github.com/lfurkan06)
